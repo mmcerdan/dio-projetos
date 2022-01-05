@@ -1,0 +1,14 @@
+Ese desafio foi proposto pela DIO afim de criar um repositorio, clonar e comitar utilizando o gitbash.
+Para realizar o download do gitbash no site: https://git-scm.com/downloads
+Outra maneira bem intuitiva de facil utilização pode ser feita atra´ves do github para desktop disponivel no site: https://desktop.github.com/
+
+Etapas:
+1 - Foi criado um repositório no github via browser https://github.com/mmcerdan/dio-projetos.git, depois utilizando o git bash foi realizado o clone:
+git clone https://github.com/mmcerdan/dio-projetos.git
+2 - Criação de um arquivo e para subir para o repositório.
+3 - Com o comando git status visualizamos as alterações feitas na pasta.
+4 - Com o comando git add . adicionamos o arquivo na base local.
+5 - git comit -m "Anotações sobre o arquivo", através deste comitamos os arquivos
+6 - git push para enviar os arquivos.
+
+ 
