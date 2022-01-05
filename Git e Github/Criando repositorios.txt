@@ -9,6 +9,6 @@ git clone https://github.com/mmcerdan/dio-projetos.git
 3 - Com o comando git status visualizamos as alterações feitas na pasta.
 4 - Com o comando git add . adicionamos o arquivo na base local.
 5 - git comit -m "Anotações sobre o arquivo", através deste comitamos os arquivos
-6 - git push para enviar os arquivos.
+6 - git push origin main para enviar os arquivos.
 
  
