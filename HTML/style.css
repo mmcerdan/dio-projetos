@@ -2,10 +2,16 @@ body {
     background: rgba(129, 125, 125, 0.658);
 }
 
+.foto {
+    border: 1px solid rgb(228, 8, 8);
+    border-radius: 50%;
+}
+
 #titulo {
 font-size: 72px;
 font-style: italic;
-background: -webkit-linear-gradient(#A2E5FA, #1AD6D3, #1E56FA, #333);
+background-image: linear-gradient(to bottom, rebeccapurple, steelblue, turquoise);
+background-clip: text;
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;
 }
@@ -23,10 +29,20 @@ background: -webkit-linear-gradient(#A2E5FA, #1AD6D3, #1E56FA, #333);
     background: turquoise;
     padding: 15px;
     border: 2px solid black;
-    margin: 10px;
+    margin-bottom: 15px;
+    border-radius: 10px;
 }
 
 .rodape {   
     background: rgb(187, 189, 192);
     border: 2px dotted cadetblue;
+}
+
+.conteudo {
+margin: 0;
+margin-bottom: 15px;
+}
+
+.post_imagem{
+    margin-bottom: 15px;
 }
