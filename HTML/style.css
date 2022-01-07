@@ -1,0 +1,32 @@
+body {  
+    background: rgba(129, 125, 125, 0.658);
+}
+
+#titulo {
+font-size: 72px;
+font-style: italic;
+background: -webkit-linear-gradient(#A2E5FA, #1AD6D3, #1E56FA, #333);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+
+.subtitulo, .artigo {
+ color: rgb(74, 126, 146);   
+}
+
+.artigo {
+    font-size: 19px;
+    font-style: italic;
+}
+
+.post {
+    background: turquoise;
+    padding: 15px;
+    border: 2px solid black;
+    margin: 10px;
+}
+
+.rodape {   
+    background: rgb(187, 189, 192);
+    border: 2px dotted cadetblue;
+}
