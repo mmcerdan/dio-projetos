@@ -1,0 +1,14 @@
+body{
+    font: 20px, Arial, sans-serif; 
+}
+.navbar {
+    background-color: rgb(115, 126, 123);
+}
+
+.quemsomos {
+    background-color: rgb(66, 167, 74);
+}
+
+.margin {
+       padding-bottom: 50px;
+}
