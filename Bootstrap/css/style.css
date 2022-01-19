@@ -1,7 +1,7 @@
 body{
     font: 20px, Arial, sans-serif; 
 }
-.navbar {
+#navbar {
     background-color: rgb(115, 126, 123);
 }
 
@@ -11,4 +11,13 @@ body{
 
 .margin {
        padding-bottom: 50px;
+       padding-top: 20px;
+}
+
+.parceiros{
+    background-color: gray;
+}
+
+.bg-footer{
+    background-color: green;
 }
