@@ -59,7 +59,7 @@ function calculadora(){
         }
     
         
-    
+        /*
         if (operacao == 1){
             soma();
         }else if (operacao == 2){
@@ -72,8 +72,30 @@ function calculadora(){
             divisaoInteira();
         }else if (operacao == 6){
             potenciacao();
-        }
+        }*/
+
+    switch (operacao){
+        case 1: 
+        soma();
+        break;
+        case 2: 
+        subtracao();
+        break;
+        case 3: 
+        multiplicacao();
+        break;
+        case 4: 
+        divisaoReal();
+        break;
+        case 5: 
+        divisaoInteira();
+        break;
+        case 6: 
+        potenciacao();
+        break;
     }
+
+        
     
     calculadora();
 
