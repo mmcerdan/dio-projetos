@@ -1,2 +1,1 @@
-alert ("Tudo certo jovem!");
-
+alert ('Tudo certo');
